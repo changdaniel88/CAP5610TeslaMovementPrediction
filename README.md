@@ -53,4 +53,4 @@ Running the Code:
 4. If going to use jupyter notebook, "pip install jupyter", and open jupyter notebook.
 5. Run the TeslaMovementPrediction.ipynb file and observe the code working.
 
-(If there are issues with runnign 
+(If there are issues with running, could be due to packages and might need reinstalling.) 
